@@ -10,7 +10,8 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a> 
 <br><br>
-- I'm passionate about learning new things!
+- 🎓 I’m currently pursuing B.Tech Information Technology and have a strong interest in Open-Source! <br>
+- ✨ I'm passionate about Flutter, learning new things! <br>
 
 ## 🚀 Technologies
 
@@ -19,3 +20,9 @@
 
 ### DevOps💙
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
+
+<!-- ## 📈 Stats
+<p align="center">
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=highcontrast" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=highcontrast" />
+</p> -->
