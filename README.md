@@ -1,4 +1,4 @@
-## Hey there 👋 I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
 
 <a href="https://www.linkedin.com/in/imobasshir/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
@@ -26,3 +26,6 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=highcontrast" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=highcontrast" />
 </p>
+
+## Visitor Count
+<img src="https://profile-counter.glitch.me/imobasshir/count.svg">
