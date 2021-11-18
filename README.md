@@ -16,7 +16,7 @@
 ## 🚀 Technologies
 
 ### Languages⚡
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Html-FF4A28?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-3565FF?&style=for-the-badge&logo=css3&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Html-FF4A28?style=for-the-badge&logo=html5&logoColor=white" />  <img src="https://img.shields.io/badge/CSS-3565FF?&style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/Flutter-87CEEB?style=for-the-badge&logo=flutter&logoColor=white"  />
 
 ### DevOps💙
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
