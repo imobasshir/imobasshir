@@ -11,7 +11,7 @@
 </a> 
 <br><br>
 - 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
-- ✨ I'm passionate about Flutter, learning new things! <br>
+- ✨ I'm passionate about Flutter, Java, learning new things! <br>
 - 💡 Learning Java <br>
 
 ## 🚀 Technologies
