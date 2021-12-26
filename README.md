@@ -12,7 +12,7 @@
 <br><br>
 - 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
 - ✨ I'm passionate to know about Flutter, learning new things! <br>
-- 💡 Learning Java <br>
+- 💡 Learning Java, Flutter. <br>
 
 ## 🚀 Technologies
 
@@ -24,9 +24,13 @@
 
 ## 📈 Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=highcontrast" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=highcontrast" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=chartreuse-dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=chartreuse-dark" /> <br>
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&layout=compact&theme=chartreuse-dark&langs_count=6" />
 </p>
+
+### Contribution Graph
+<img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=react-dark" /></a>
 
 ### Visitor Count
 <img src="https://profile-counter.glitch.me/imobasshir/count.svg">
