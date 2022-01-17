@@ -46,4 +46,4 @@
 
 <img src="https://profile-counter.glitch.me/imobasshir/count.svg">
 <br/><br/>
-![Metrics](https://github.com/imobasshir/imobasshir/blob/main/github-metrics.svg)
+<img src="https://github.com/imobasshir/imobasshir/blob/main/github-metrics.svg">
