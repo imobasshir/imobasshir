@@ -40,7 +40,7 @@
 
 ### Contribution Graph
 
-<img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=react-dark" /></a>
+<img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=xcode" /></a>
 
 ### Visitor Count
 
