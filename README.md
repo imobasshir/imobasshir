@@ -6,7 +6,7 @@
 ## :wave:About Me
 
 - 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
-- ✨ I'm passionate to know about technology, learning new it! <br>
+- ✨ I'm passionate to know about technology, learning new things! <br>
 - 💡 Nowadays, I’m learning Java, Flutter. <br>
 
 ## 🚀 Technologies
