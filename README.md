@@ -38,11 +38,11 @@
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&layout=compact&theme=chartreuse-dark&langs_count=6" />
 </p>
 
-### Contribution Graph
+<!-- ### Contribution Graph -->
 
-<img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=xcode" /></a>
+<!-- <img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=xcode" /></a> -->
 
-### Visitor Count
+<!-- ### Visitor Count -->
 
 <!-- <img src="https://profile-counter.glitch.me/imobasshir/count.svg"> -->
 <br/><br/>
