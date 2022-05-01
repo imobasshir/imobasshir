@@ -1,13 +1,14 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
 
-<a href="https://www.linkedin.com/in/imobasshir/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" align="right"></a>
-<a href="https://twitter.com/imobasshir"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" align="right"></a>
+<a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a>
+<a href="https://twitter.com/imobasshir"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a>
 
 ## :wave:About Me
 
 - 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
 - ✨ I'm passionate to know about technology, learning new things! <br>
-- 💡 Nowadays, I’m learning Java, Flutter. <br>
+- 👨‍💻 Flutter Developer. <br>
+- 💡 Nowadays, I’m doing Java, Flutter. <br>
 
 ## 🚀 Technologies
 
@@ -42,8 +43,8 @@
 
 <!-- <img width="100%" alt="Mobasshir's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=imobasshir&theme=xcode" /></a> -->
 
-<!-- ### Visitor Count -->
+### Visitor Count
 
-<!-- <img src="https://profile-counter.glitch.me/imobasshir/count.svg"> -->
+<img src="https://profile-counter.glitch.me/imobasshir/count.svg">
 <br/><br/>
 <img src="https://github.com/imobasshir/imobasshir/blob/main/github-metrics.svg">
