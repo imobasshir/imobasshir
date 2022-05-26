@@ -5,11 +5,12 @@
 ## :wave:About Me
 
 - 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
-- ✨ I'm passionate to know about technology, learning new things! <br>
+- ✨ I'm passionate to learn about new technology, learning new things! <br>
+- 📖 DSA in Java. <br>
 - 👨‍💻 Flutter Developer. <br>
-- 💡 Nowadays, I’m doing Java, Flutter. <br>
+- 💡 Nowadays, I’m exploring Flutter. <br>
 
-## 🚀 Technologies
+## 💻Tech Stack
 
 - 💻 &nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp; ![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -18,12 +19,12 @@
 - ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
 - 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 📈 Stats
+## 📊GitHub Stats :
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=chartreuse-dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=chartreuse-dark" /> <br>
-	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&layout=compact&theme=chartreuse-dark&langs_count=6" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=radical&hide_border=true" /> <br>
+	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
 </p>
 
 <!-- ### Contribution Graph -->
@@ -35,3 +36,7 @@
 <img src="https://profile-counter.glitch.me/imobasshir/count.svg">
 <br/><br/>
 <img src="https://github.com/imobasshir/imobasshir/blob/main/github-metrics.svg">
+<!-- 
+---
+[![](https://visitcount.itsvg.in/api?id=imobasshir&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
