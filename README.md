@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
+## Hey there :wave: I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
 
 <a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a> <a href="https://twitter.com/imobasshir"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a>
 
