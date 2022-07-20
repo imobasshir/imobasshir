@@ -22,7 +22,7 @@
 ## 📊GitHub Stats :
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&theme=radical&hide_border=true&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=radical&hide_border=true" /> <br>
 	<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" />
 </p>
