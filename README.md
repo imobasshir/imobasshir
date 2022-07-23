@@ -12,16 +12,15 @@
 
 ## 💻Language
 <br><br>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/markdown.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.jpeg"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
+<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.png"></code>
 
 ## 💻Tech Stack
 
