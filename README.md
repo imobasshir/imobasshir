@@ -10,6 +10,19 @@
 - 👨‍💻 Flutter Developer. <br>
 - 💡 Nowadays, I’m exploring Flutter. <br>
 
+## 💻Language
+<br><br>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/markdown.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.png"></code>
+
 ## 💻Tech Stack
 
 - 💻 &nbsp; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
