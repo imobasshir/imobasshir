@@ -21,7 +21,7 @@
 <code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
 <code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/markdown.png"></code>
 <code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
-<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.png"></code>
+<code><img height="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.jpeg"></code>
 
 ## 💻Tech Stack
 
