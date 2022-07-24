@@ -11,19 +11,19 @@
 - 💡 Nowadays, I’m exploring Flutter. <br>
 
 ## 💻Tools and Technology Used <br>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
-<code><img height="20" width="15" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/html.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/github.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/docker.png"></code>
-<code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/markdown1.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
+<code><img height="30" width="5" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/html.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/github.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/linux.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/code.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/docker.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/markdown1.png"></code>
 
 <!-- ## 💻Tech Stack
 
@@ -32,7 +32,7 @@
 - 📱 &nbsp; ![Flutter](https://img.shields.io/badge/Flutter-333333?style=flat&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-333333?style=flat&logo=dart)
 - 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 - ⚙️ &nbsp; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown) ![Linux](https://img.shields.io/badge/Linux-333333?style=flat&logo=linux) ![Docker](https://img.shields.io/badge/Docker-333333?style=flat&logo=docker)
-- 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
+- 🔧 &nbsp; ![Visual Studio Code](https://img.shields.io/badge/-Visual%30Studio%30Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) -->
 
 ## 📊GitHub Stats :
 
