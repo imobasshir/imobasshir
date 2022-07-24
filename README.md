@@ -14,7 +14,7 @@
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
-<code><img height="30" width="5" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/html.png"></code>
