@@ -10,7 +10,7 @@
 - 👨‍💻 Flutter Developer. <br>
 - 💡 Nowadays, I’m exploring Flutter. <br>
 
-## 💻 Tools and Technology <br>
+## 💻Tools and Technology Used <br>
 <code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
 <code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
 <code><img height="20" width="20" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
