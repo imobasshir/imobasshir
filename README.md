@@ -51,6 +51,7 @@
 <img src="https://profile-counter.glitch.me/imobasshir/count.svg">
 <br/><br/>
 <img src="https://github.com/imobasshir/imobasshir/blob/main/github-metrics.svg">
+<img src="https://github.com/imobasshir/imobasshir/blob/main/language.svg">
 <!-- 
 ---
 [![](https://visitcount.itsvg.in/api?id=imobasshir&icon=0&color=0)](https://visitcount.itsvg.in) -->
