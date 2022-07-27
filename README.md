@@ -3,12 +3,11 @@
 <a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a> <a href="https://twitter.com/mobasshirtwts"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a> <a href="https://www.instagram.com/mobasshir_code/"> <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" align="right"/> </a>
 
 ## :wave:About Me
-
-- 🎓 I’m currently pursuing B.Tech Information Technology at <a href="https://www.ipec.org.in/">IPEC</a> and have a strong interest in Open-Source! <br>
-- ✨ I'm passionate to learn about new technology, learning new things! <br>
-- 📖 DSA in Java. <br>
-- 👨‍💻 Flutter Developer. <br>
-- 💡 Nowadays, I’m exploring Flutter. <br>
+- 🎓 I'm currently studying Information Technology at <a href="https://www.ipec.org.in/">IPEC</a>.
+- ✨ Some technologies I am working with include Dart/Flutter, JavaScript, NodeJS and ExpressJS. 
+- 💡 I love to talk about Web Development, App Development, new trends and technology etc. And I want to learn new things!
+- 👨‍💻 I'm on currently learning more about Cross-Platform Development, Backend Development, and Algorithms.
+- 📫 Reach me at imobasshirimam@gmail.com
 
 ## 💻Tools and Technology Used <br>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/java.png"></code>
