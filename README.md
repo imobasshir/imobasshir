@@ -14,7 +14,7 @@
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/dart.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/flutter.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/firebase.png"></code>
-<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/node-js.png"></code>
+<code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/nodejs.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/mongodb.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/html.png"></code>
 <code><img height="30" src="https://github.com/imobasshir/imobasshir/raw/main/assets/images/git.png"></code>
@@ -36,7 +36,7 @@
 ## 📊GitHub Stats :
 
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=imobasshir&show_icons=true&theme=radical&hide_border=true=&include_all_commits=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=imobasshir&theme=radical&hide_border=true" /> <br>
 	<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imobasshir&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=6" /> -->
 </p>
