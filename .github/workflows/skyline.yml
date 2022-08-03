@@ -15,6 +15,12 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           
+          # Options
+          user: imobasshir
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Calcutta
+          
   language:
     runs-on: ubuntu-latest
     steps:
@@ -27,6 +33,7 @@ jobs:
           user: imobasshir
           template: classic
           base: ""
+          config_timezone: Asia/Calcutta
           config_display: large
           config_output: svg
           filename: language.svg
