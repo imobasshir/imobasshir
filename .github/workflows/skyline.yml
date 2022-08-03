@@ -42,7 +42,6 @@ jobs:
           config_display: large
           config_output: svg
           filename: language.svg
-          exclude: 'https://github.com/imobasshir/imobasshir.github.io'
 
           # Language plugin
           plugin_languages: yes
