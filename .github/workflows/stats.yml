@@ -33,13 +33,11 @@ jobs:
         key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
         restore-keys: |
           ${{ runner.os }}-pip-
-
     # Install dependencies with `pip`
-    - name: Install requirements 
+    - name: Install requirements
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
         python3 -m pip install -r requirements.txt
-
     # Generate all statistics images
     - name: Generate images
       run: |
@@ -50,3 +48,12 @@ jobs:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ${{ secrets.EXCLUDED }}
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDE_FORKED_REPOS: true
+
+    # Commit all changed files to the repository
+    - name: Commit to the repo
+      run: |
+        git add .
+        # Force the build to succeed, even if no files were changed
+        git commit -m 'Update generated files' || true
+        git push
