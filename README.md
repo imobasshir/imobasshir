@@ -1,6 +1,6 @@
 ## Hey there :wave: I'm [Mobasshir](https://www.linkedin.com/in/imobasshir/) !!
 
-<a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a> <a href="https://twitter.com/mobasshirstwt"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a> <a href="https://www.instagram.com/mobasshir_code/"> <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" align="right"/> </a>
+<a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a> <a href="https://twitter.com/mobasshirstwt"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a> <a href="https://www.instagram.com/mobasshir_code/"> <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" align="right"/> </a> 
 
 ## :wave:About Me
 - 🎓 I'm currently working as GET @Digit Insurance.
