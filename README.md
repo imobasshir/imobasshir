@@ -3,10 +3,10 @@
 <a href="https://www.linkedin.com/in/imobasshir/"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" align="right"/></a> <a href="https://twitter.com/mobasshirstwt"><img src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" align="right"/></a> <a href="https://www.instagram.com/mobasshir_code/"> <img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" align="right"/> </a>  
 
 ## :wave:About Me
-- 🎓 I'm currently working as GET @Digit Insurance.
-- ✨ Some technologies I am working with include Dart/Flutter, JavaScript, NodeJS and ExpressJS. 
+- 🎓 I'm currently working as Software Engineer @Digit Insurance.
+- ✨ Some technologies I am working with include JavaScript, TypeScript, Angular, ReactJS, NodeJS and ExpressJS. 
 - 💡 I love to talk about Web Development, App Development, new trends and technology etc. And I want to learn new things!
-- 👨‍💻 I'm on currently learning more about Cross-Platform Development, Backend Development, and Algorithms.
+- 👨‍💻 I'm on currently learning more about Frontend Development, Backend Development and Cross-Platform Development.
 - 📫 Reach me at imobasshirimam@gmail.com
 
 ## 💻Tools and Technology Used <br>
