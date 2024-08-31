@@ -46,3 +46,17 @@ jobs:
           # Language plugin
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
+  
+  calender:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+        
+          user: imobasshir
+          filename: fullyear.svg
+          token: ${{ secrets.METRICS_TOKEN }}  
+          base: ""  
+          plugin_isocalendar: yes  
+          plugin_isocalendar_duration: full-year
+          
