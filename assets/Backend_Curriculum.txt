@@ -1,0 +1,690 @@
+
+Backend with Node Node.js
+Section 1: Introduction to Backend and Node.js
+
+    Prerequisites
+    What Is Backend & Client Server Architecture?
+    CLI vs GUI
+    What Is Node.js and What Is It Used For?
+    Installing Node.js
+    Running Our First Node.js Code
+    Why Do We Need Node.js and How Is It Different From JavaScript in Browser?
+    A Brief History of Node.js
+
+Section 2: Basics of Terminal
+
+    Introduction to Terminal and Shell
+    Basic Shell Commands (echo, pwd, whoami)
+    Navigating the File System (cd)
+    Listing Directory Contents (ls)
+    Creating, Copying, Moving, and Deleting Files and Directories (touch, mkdir, cp, mv, rm, rmdir)
+    Viewing and Editing Files with Commands (cat, nano, vim)
+    What Is Prompt in Terminal?
+    Configuring Our Terminal Using .bashrc File
+    Using Aliases for Command Shortcuts (alias)
+
+Section 3: Basics of OS
+
+    What Is CPU, Processor, and Core?
+    What Is OS and Kernel?
+    What Is a Process?
+    What Is Thread, Concurrency, and Parallelism?
+    Can a Process Exist Without a Thread?
+    Debugging Worker Threads
+    What Is an Environment Variable?
+    Setting and Using Environment Variables
+    Installing Windows Subsystem for Linux (WSL)
+    Understanding the Path System: Windows vs. Linux Explained
+    What are Executable Files?
+    Managing File Permissions
+    How Commands Get Executed?
+    Important Methods and Properties of The Process Object
+
+Section 4: Fundamentals of Node.js
+
+    Module System in Node.js
+    Introduction to Common JS Module System
+    module.exports VS exports
+    module Object
+    Module Wrapper Function
+    Custom Require Function
+    ES6 Modules
+    Accessing filename and dirname in ES6 Modules
+    Why Different Module Systems?
+    Difference Between Common.js and ES6 Modules
+    Different Types of Modules
+    NPM and NPM Modules
+    Creating and Publishing NPM Modules
+    Understanding package.json File in Depth
+    What is Shebang?
+    Library VS CLI Packages and Local VS Global Packages
+    How npx Works?
+    What is npx?
+    Introduction to FS Module
+    Word Counter CLI Project
+    Writing to a File Using Node.js
+    Node.js File Operations: Rename, Delete, Move, Copy & More
+
+Section 5: Data Representation in Computing
+
+    Introduction to Data Representation in Computing
+    Decimal Number System
+    Octal Number System
+    Hexadecimal Number System
+    Binary Number System
+    Introducing Programmer's Calculator
+    Digital Data Uints
+    Binary Data on Physical Level
+    Why DO We Use Decimal System?
+    Character Sets vs Character Encodings (ASCII and Unicode)
+    Understanding UTF-8 in Depth
+    What are Unicode Planes?
+    UTF-8 vs UTF-16 vs UTF-32
+    Byte Order Mark (BOM) and Endianness (Big Endian & Little Endian)
+
+Section 6: Mastering Buffers - Handling Binary Data in Node.js
+
+    Introduction to Buffers
+    ArrayBuffer in JavaScript
+    Signed and Unsigned Values
+    Reading and Writing to Array Buffers
+    Writing Multi-Byte Data
+    Typed Arrays
+    Transferring Array Buffer Data from Memory to Disk and Network
+    Buffer in Node.js
+    Alloc VS AllocUnsafe
+    Buffer Pool in Node.js
+    Buffer Methods and Properties
+    Practical Use of Buffers
+    Limitations of Buffers
+    Base-64 Encoding
+    Base-64 in Node.js
+
+Section 7: Event-Driven Architecture and EventEmitter in Node.js
+
+    What is an I/O Operation?
+    What is Async I/O?
+    Introduction to Event-Driven Architecture
+    The EventEmitter Class
+    Creating and Emitting Events
+    EventEmitter Methods
+
+Section 8: Node.js Streams - Handling Data Flow like a Pro
+
+    Introduction to Streams
+    Types Of Streams in Node.js
+    Readable Streams
+    Different States of Readable Streams
+    Internal Buffer of Readable Streams
+    More about Readable Streams
+    Writable Streams
+    Backpressure and Internal Buffer of Writable Streams
+    Closing Writable Streams
+    States of Writable Streams
+    Piping Streams
+    Piping Using Pipeline
+    Duplex, Transform and Passthrough Streams
+    Data Streams
+    Piping and Redirection of Data Streams
+    Writing 1 Lakh Numbers
+    Why Streams Are So Fast?
+    What is a File Descriptor?
+    Reading File with File Descriptor
+    Opening Files in Different Modes
+    Writing to a File with File Descriptor
+    Write One Lakh Numbers Faster than Streams
+    Implementing Internal Buffer in our Custom Stream
+    Handling Files Using Promises
+    Working with Streams using Promises
+    How Browsers use Streams?
+    Streams in JavaScript
+
+Section 9: Basics of Computer Networking
+
+    Why Should We Learn Networking?
+    What is Computer Networking?
+    Story of The Internet
+    Story of DNS
+    Story of World Wide Web
+    Important Networking Devices
+    Types of Network
+    Creating Our Own LAN
+    Creating Our Own WAN
+    How Internet Comes to Our Homes?
+    How does Mobile Internet Work?
+    Understanding IPv4 Addresses in Depth
+    Dynamic vs Static IP Address
+    Private vs Public IP Address
+    Benefits and Drawbacks of Public and Private IP Addresses
+    How to get Public IP Adresss?
+    Turning Our Laptop into a Public Server
+    Running Multiples Severs on our Laptop
+    Understanding Domain Name System (DNS)
+    Connecting Our IP Address with a Domain Name
+    How DNS Servers Work?
+    DNS Hijacking
+    Understanding IPv6 Addresses
+    Turning Our Mobile Phone into a Public Server
+    What are Port Numbers?
+    Inspecting Port Numbers with Wireshark
+    What are Network Interfaces?
+    What is MAC Address?
+    What is Firewall?
+    Understanding OSI Model
+    Understanding TCP/IP Model
+    Network Topologies
+    TCP and UDP: The Backbone of the Internet
+    Remote Terminal Access Using SSH
+    Transferring files using SCP
+    SSH Public and Private Keys
+    Connecting to Multiple SSH Servers
+    Creating AWS Account
+    Understanding AWS EC2 Instance
+    AWS Cost Management
+    More Topics to Learn
+
+Section 10: Networking with Core Node.js Modules
+
+    Networking Capabilities of Node.js
+    Creating UDP Server in Node.js
+    What is Socket?
+    Transferring Files Using UDP
+    Creating TCP Server in Node.js
+    Creating TCP Client using Node.js
+    Handling Multiple TCP Clients
+    Transferring Files Using TCP
+    Creating HTTP Server using Net Module
+    Understanding HTTP Headers
+    Important Response Headers
+    Controlling Data Transfer Speeds
+    Inspecting TCP Data Packets in Wireshark
+    Why We Await Twice When Making a Fetch Call?
+    Uploading Files
+    Creating HTTP Server Using HTTP Module
+    HTTP Request Methods
+    HTTP Response Status Codes
+    Creating HTTP Client
+    Anatomy of HTTP Request and Response
+    Creating a Web Server
+    Creating Online Storage Platform Like Google Drive
+    Implementing Preview and Download Feature in Our Storage App
+    Client-Side vs Server-Side Rendering
+    Separating Our Client-Side and Server-Side Code
+    Implementing File Upload with Progress
+    Adding Delete Functionality
+    Implementing Rename Functionality
+    Making Our App Live on Internet
+
+Section 11: Building RESTful CRUD APIs with Express.js
+
+    Intro to Express.js
+    How Express Works Behind the Scenes?
+    What is Middleware in Express?
+    Handling Different HTTP Methods in Express
+    Difference Between Route and Request URL
+    Adding Global Middleware with app.use() Method
+    Adding Route-Specific Middleware
+    Serving Static Files using Express
+    Sending JSON using Express
+    Making File Storage App in Express
+    Dynamic Routing in Express
+    Handling File Uploads in Express
+    What is CORS?
+    Understanding Preflight Request
+    Adding Single-Level Nested Directory Support in Our Storage App
+    Adding Multi-Level Nested Directory Support
+    Adding Directory Creation Functionality
+    Understanding Path Traversal Vulnerability
+    Fixing Vulnerability with Path Module
+    Organizing Routes using Express Router
+    Understanding the Problem with Our Code
+    Creating Virtual File System
+    Adding Directory Support in Our VFS
+    Integrating VFS API in Our UI
+    Adding Nested Directory Feature in Our VFS
+    Adding Directory Rename and Delete Functionality
+    Understanding REST API Principles
+    Error Handling in Express
+    Handling File Uploads Using Multer
+    Showing Upload Progress While Using Multer in Backend
+    Adding Basic User Registration Functionality
+    Overview of New UI of Our App
+    What are Cookies?
+    Setting Cookies from Server
+    Implementing Simple Login Functionality
+    Providing User Specific File Access
+    Adding Logout and User Profile Functionality
+    Understanding res.download() Method
+    Using app.route() Method to Clean Our Code
+    Understanding router.param() Method
+    What is HTTP Redirection and How Does it Work?
+    Understanding Different Types of Form Data
+    Difference Between Extended True and False
+    Nested Dynamic Routes
+    RegEx in Routes
+    Using Arrays to Define Multiple Routes
+    Express v4 vs v5
+
+Section 12: Mastering Database Fundamentals with MongoDB
+
+    Introduction To Database
+    Types Of Databases
+    Introduction To MongoDB
+    Understanding Mongo Shell
+    Installing MongoDB Server
+    MongoDB Fundamentals
+    Creating Documents In MongoDB
+    Reading Data In MongoDB
+    Inspecting MongoDB Data Packages
+    Update Operation In MongoDB
+    Delete Operation In MongoDB
+    Datatypes In MongoDB
+    Object Id Datatype
+    Different Number Types
+    MongoDB Datatypes In Practice
+    BSON Types In MongoDB
+    Where Data Is Stored
+    Configuring Our MongoDB Server
+    Accessing Our MongoDB Server From Anywhere In The World
+    Running MongoShell Scripts in JS Files
+    What is MongoDB Playground?
+    MongoDB in Node.js
+    MongoDB CRUD Operations in Node.js
+    Understanding Cursors in MongoDB
+    Cursor Methods in MongoDB
+    Batch Size in MongoDB
+    Projection in MongoDB
+    Limits of MongoDB
+    MongoDB Setup in Our Storage App
+    Integrating Database in User Routes
+    Integrating Database in Directory Routes
+    Integrating Database in File Routes
+    Performing Bulk Operations in MongoDB
+    Implementing Recursive Directory Delete Functionality
+    Why ObjectId() Is Not a String?
+    Fixing ObjectId() Validation
+    Understanding Application Architecture
+    Ordered Inserts in MongoDB
+    What Is Upsert in MongoDB?
+    Running Commands in MongoDB
+    Operators in MongoDB
+    What Is Schema?
+    Adding Basic Schema Validation in MongoDB
+    Creating a New Collection with Validation Enabled
+    Understanding JSON Schema Validation
+    Validation Action VS Validation Level
+    Finding Invalid Documents in a Collection
+    Adding Schema Validation in Our Storage App
+    Handling Database Validation Errors in Our App
+    What Are Transactions in Database?
+    Implementing Transaction in Code
+    ACID Properties of a Transaction
+    Relational vs. Non-Relational Databases: Key Differences
+    Embedded vs. Referenced Documents: Choosing the Right Data Model
+    Understanding One-to-One, One-to-Many, and Many-to-Many Relationships
+    Backup & Restore Using mongodump and mongoresotre for Backup
+    Using mongoimport and mongoexport to Export and Import JSON or CSV Data
+    mongoimport VS mongoexport: When to Use What?
+    Securing MongoDB: Authentication and Authorization
+    Enabling Auth in MongoDB Replica Set
+    Installing MongoDB On AWS EC2 Ubuntu Instance
+    Deploying MongoDB on EC2
+    Exploring MongoDB Atlas
+    Managed VS Self-Managed Databases
+
+Section 13: Mastering MVC Architecture with Mongoose
+
+    Introduction to MVC Architecture
+    Controllers in Action: Organizing Your Application Logic
+    Views Explained: Creating and Managing User Interfaces
+    Introduction to Mongoose and Models
+    Mongoose Query Buffering: Queries Wait for Database Connection
+    Schema and Types in Mongoose
+    CRUD Operation Using Mongoose
+    What are Thenable Objects in JavaScript?
+    What is a Mongoose Query?
+    What are Documents in Mongoose?
+    Integrating Mongoose in Our TodoApp
+    Adding Custom Validation in Mongoose Schema
+    Using Ref and Populate to Fetch Referenced Fields
+    Implementing MVC Architecture in StorageApp
+    Integrating Mongoose in UserController
+    Integrating Mongoose in FileController
+    What are Virtuals in Mongoose?
+    Define Custom Methods on Mongoose Documents
+    Define Custom Static Methods on Mongoose Model
+    What Is Middleware in Mongoose?
+    Understanding Document Middleware
+    Understanding Query Middleware
+    Understanding Model Middleware
+    Introduction to Indexes in MongoDB
+    Understanding Unique True Property of Mongoose Schema
+    Creating Unique Index for Email in Our StorageApp
+    Document Versioning in Mongoose
+    Understanding Mongoose Object
+    Mongoose Built-in Error Types ValidationError, MongoServerError, etc.
+
+Section 14: Mastering Authentication and Authorization in Node.js
+
+    Introduction to Authentication and Authorization
+    Stateful vs Stateless Auth
+    Limitations of Auth in Our Storage App
+    Trying to Fix Cookie Expiry Issue
+    Cryptography Basics: Understanding Encryption vs Hashing
+    Basics of Hashing
+    Hashing in Node.js Using crypto Module
+    How Git Uses Hashing for Commits?
+    Understanding Digital Signatures
+    Signing Cookies in Node.js
+    Understanding MAC and HMAC
+    Signing Cookies Using cookie-parser
+    Hashing Passwords Before Saving to the Database
+    What Are Rainbow Tables?
+    Understanding Key Derivation Functions
+    Using pbkdf2() to Hash Passwords
+    Understanding bcrypt
+    Using bcrypt to Hash Passwords
+    Understanding JSON Web Tokens
+    Do Not Use JWT for Login
+    What Are Sessions?
+    Stateful vs Stateless Servers
+    Overview of Our New LMS App
+    Adding Guest Session in Our LMS App
+    Implementing Cart Functionality
+    Adding Get and Delete Routes for Cart
+    Adding Authorized Sessions in LMS App
+    Moving Cart Data to Cart Collection
+    Implementing Logout and Session Expiry Functionality
+    Auto-Deleting Documents in MongoDB
+    Implementing Sessions in Storage App
+    Restricting Multiple Device Access
+    Implementing Logout from All Devices Functionality
+    Sending Emails Using Node.js
+    Sending Email With Custom Domain
+    Verifying Email Using OTP
+    Understanding OAuth and Its Flow
+    Understanding OpenID Connect and Its Flow
+    Client Registration for Google OAuth Integration
+    Understanding Google’s OpenID Connect
+    How to Open a Popup for Google Login?
+    Creating a Different Page for Redirect URL
+    Implementing Login With Google on Backend
+    Implementing Logout Functionality
+    Receiving Auth Code on Backend
+    Putting Google Auth Redirect Logic in Backend Code
+    Verifying ID Token
+    Using Google Auth Library to Verify ID Token
+    Using Google Auth Library to Fetch ID Token
+    Using Google Auth Library to Generate AuthURL
+    Calling User Info Endpoint With Access Token
+    Customizing OAuth Login Popup With Prompt and Login Hint Parameters
+    Error Handling in Google Login
+    Implementing Google Login With Passport.js
+    Grant Types in OAuth 2.0
+    Understanding Implicit Grant Type
+    Implementing Google Login Using Implicit Grant Type
+    Problem With Implicit Login Flow
+    Enabling One Tap Login and Fixing Implicit Flow Issue
+    GSI vs FedCM
+    Branding Guidelines of Login With Google Button
+    Using GSI Library in React.js
+    Adding Google Login in StorageApp
+    Wrapping Up Authentication – Next Steps & Assignments
+
+Section 15: Understanding Role-Based Access Control (RBAC)
+
+    What Is RBAC?
+    Implementing GET All Users Endpoint
+    Adding Role-Based Access in Users Route
+    Role-Based UI Rendering
+    Implementing User Logout Functionality
+    Implementing User Delete Feature
+    Implementing Soft Delete for Users
+    Preventing Users from Self-Deletion
+    What is Google Zanzibar and OpenFGA?
+    RBAC Assignments for Storage App
+
+Section 16: Working with Redis – Caching, Session Storage, and Beyond
+
+    Introduction to Redis
+    Installing Redis: Server, CLI and GUI
+    Data Types in Redis
+    Working with Strings in Redis
+    Time-to-Live (TTL): Expiring Keys in Redis
+    Database Management in Redis
+    Organizing Redis Keys with Namespacing
+    Connecting Redis in Node.js
+    Creating getJSON() and setJSON() Methods
+    Working with RedisJSON Data Type
+    Redis vs MongoDB: Speed Test
+    Using Redis for Caching
+    Using Redis as Session Store
+    Understanding Redis Search and Indexing
+    Fixing Multiple Device Access
+    Working with Redis Search in GUI
+    Exploring Redis Extension for VSCode
+    What is Fuzzy Search in Redis?
+    Understanding SCAN Command in Redis
+    KEYS vs SCAN Command in Redis
+    Working with Redis Lists Data Type
+    Working with Redis Sets Data Type
+    Working with Redis Hashes Data Type
+    Working with Redis Hashes in Node.js
+    Real-Time Messaging with Redis Pub/Sub
+    Enabling Authentication in Redis
+    Understanding Eviction Policies in Redis
+    Exploring Redis Cloud
+    More Topics to Explore in Redis
+
+Section 17: Securing Our Node.js Application
+
+    Overview of Common Security Threats in Web Applications
+    Importance of Security in Backend Development
+    Protecting Against Common Vulnerabilities
+    Cross-Site Scripting (XSS)
+    Understanding XSS Attacks
+    Preventing XSS with Proper Input Sanitization and Escaping
+    Cross-Site Request Forgery (CSRF)
+    Understanding CSRF Attacks
+    Implementing CSRF Protection in Express.js
+    SQL Injection
+    Understanding SQL Injection Attacks
+    Preventing SQL Injection with Parameterized Queries and ORM/ODM Practices
+    Protecting Your APIs with Rate Limiting and Throttling
+    Using Environment Variables for Sensitive Configuration
+
+Section 18: Deploying Node.js Applications and CI/CD
+
+    Understanding the Deployment Process
+    Setting Up a Production Environment
+    Configuring Environment Variables
+    Managing Secrets and Sensitive Data
+    Basic Server Setup for Node.js
+    Installing Node.js and npm on a Server
+    Starting and Managing Node.js Processes with PM2
+    Deploying to Cloud Platforms
+    Deploying a Node.js App to AWS (EC2) and DigitalOcean
+    Introduction to CI/CD
+    Understanding Continuous Integration and Continuous Deployment
+    Basic CI/CD Pipeline Setup
+
+Section 19: Introduction to Docker & Containerization
+
+    Introduction to Docker and Containerization
+    What Is Containerization and Why Use It?
+    Virtual Machines vs. Containers: Key Differences
+    Understanding Docker's Role in Modern Development
+    Installing Docker and Setting Up the Environment
+    Docker Basics for Node.js Applications
+    What Is a Docker Image and a Container?
+    Understanding and Writing a Dockerfile
+    Building and Running a Node.js Application in a Docker Container
+    Essential Docker Commands: docker ps, docker images, docker logs, and More
+    Working with Docker Compose for Multi-Container Applications
+    What Is Docker Compose and Why Use It?
+    Writing a docker-compose.yml File
+    Running Node.js and MongoDB Together in Docker
+    Using Docker Networks for Service Communication
+    Managing Persistent Data in Docker
+    Understanding Docker Volumes and Bind Mounts
+    Persisting Database Data Using Volumes
+    Hot-Reloading a Node.js App Inside a Container
+    Optimizing Docker Images for Better Performance
+    Reducing Image Size with Multi-Stage Builds
+    Using .dockerignore to Improve Build Efficiency
+    Best Practices for Writing Efficient Dockerfiles
+    Container Networking and Security
+    Understanding Docker Networking: Bridge, Host, and Overlay Networks
+    Running Multiple Services in Containers with Custom Networks
+    Securing Node.js Applications in Docker Containers
+    Managing Environment Variables in Docker
+    Deploying Dockerized Node.js Applications
+    Deploying a Docker Container to a Cloud Server (AWS, DigitalOcean, etc.
+    Hosting a Dockerized Node.js Application Using Nginx as a Reverse Proxy
+    CI/CD Integration with Docker: Connecting with GitHub Actions, Jenkins, etc.
+    Introduction to Kubernetes for Container Orchestration
+    Why Kubernetes? Basics of Container Orchestration
+    Deploying a Simple Node.js Application on Kubernetes
+    Kubernetes vs. Docker Compose: When to Use What?
+
+Section 20: Node.js Under the Hood
+
+    Overview of Node.js Architecture
+    Understanding the V8 JavaScript Engine
+    Exploring the Node.js Source Code Repository
+    What Is libuv and Its Role in Node.js?
+    How libuv Handles Asynchronous I/O
+    Exploring the Thread Pool in libuv
+    What Is the Event Loop, and Why Is It Important?
+    Phases of the Event Loop
+    How Node.js Interacts with C++ Code
+    Garbage Collection in V8
+
+Section 21: Working with Child Processes in Node.js
+
+    Introduction to Child Processes in Node.js
+    Creating and Managing Child Processes
+    Using child_process.spawn() and child_process.exec()
+    Key Differences and Use Cases for spawn and exec
+    Communication Between Parent and Child Processes
+    Sending and Receiving Messages
+    Handling Standard Input/Output (stdin, stdout, stderr)
+    Handling Errors and Exits in Child Processes
+    Managing Errors in Child Processes
+    Implementing Retries and Handling Process Exits
+    Real-World Use Cases for Child Processes
+    Using Child Processes for CPU-Intensive Tasks
+
+Section 22: Scaling Node.js Applications with Clustering
+
+    Introduction to Clustering in Node.js
+    Understanding the Need for Clustering
+    How Clustering Works in Node.js
+    Creating a Basic Cluster
+    Using the cluster Module to Create Worker Processes
+    Handling Worker Processes with the cluster.fork() Method
+    Load Balancing with Clusters
+    How Node.js Distributes Requests Across Worker Processes
+    Monitoring and Restarting Failed Workers
+    Scaling Beyond a Single Machine
+    Using Clustering in Conjunction with Load Balancers (e.g., Nginx)
+    Optimizing Performance with Clustering
+    Best Practices for Scaling Node.js Applications Using Clustering
+    Monitoring Cluster Performance
+
+Section 23: Scaling and Performance Optimization in MongoDB
+
+    Mastering Indexing for Faster Queries
+    Query Optimization: Boosting Performance in MongoDB
+    Write Concerns and Read Concerns: Ensuring Data Integrity
+    Aggregation Framework Deep Dive: Powerful Data Processing
+    Data Modeling in MongoDB: Designing Efficient Schemas
+    Powering Queries with $lookup: A Beginner’s Guide
+    Handling Large Datasets Efficiently in MongoDB
+    Sharding in MongoDB: Scaling Your Database
+    Partitioning Strategies: Organizing Data for Performance
+    Multi-Document Transactions Explained: ACID in Action
+    Replication in MongoDB: Ensuring High Availability
+    MongoDB Triggers: Automating Database Events
+    Exploring Advanced Features in MongoDB Atlas
+
+Section 24: Compression in Web Applications
+
+    Understanding the Need for Compression
+    Overview of Common Compression Algorithms (Gzip, Brotli, Deflate)
+    Choosing the Right Compression Algorithm for Your Application
+    Using the zlib Module for Compression
+    Compressing and Decompressing Data Streams
+    Benefits of Compressing HTTP Responses
+    Impact of Compression on CPU and I/O Performance
+    Balancing Compression Efficiency with Performance
+
+Section 25: Multithreading in Node.js
+
+    Introduction to Multithreading in Node.js
+    Understanding Single-Threaded vs. Multi-Threaded Environments
+    How Node.js Handles Concurrency with the Event Loop
+    The Role of Worker Threads in Node.js
+    Introduction to the worker_threads Module
+    When to Use Worker Threads in Node.js
+    Creating and Managing Worker Threads
+    Creating Worker Threads Using the Worker Class
+    Passing Data Between the Main Thread and Worker Threads
+    Handling Messages and Events Between Threads
+    Understanding SharedArrayBuffer and Atomics in Node.js
+    Managing Shared Memory for Performance-Critical Applications
+    Impact of Multithreading on Application Performance
+    Optimizing Thread Usage for Maximum Efficiency
+    Combining Worker Threads with Other Concurrency Models (e.g., Clustering)
+
+Section 26: Cryptography in Node.js
+
+    Introduction to Cryptography in Node.js
+    Overview of the crypto Module in Node.js
+    Hashing Data
+    Creating Hashes Using Algorithms Like SHA-256
+    Salting and Hashing Passwords for Secure Storage
+    Encryption and Decryption
+    Symmetric Encryption Using AES
+    Asymmetric Encryption with RSA
+    Encrypting and Decrypting Data with the crypto Module
+    Generating and Managing Keys
+    Generating Random Keys and Initialization Vectors (IVs)
+    Storing and Retrieving Encryption Keys Securely
+    Digital Signatures and Verification
+    Creating Digital Signatures
+    Verifying Digital Signatures
+    Implementing HTTPS in Node.js
+    Setting Up HTTPS Servers Using the https Module
+    Using Certificates for Secure Data Transmission
+    Best Practices for Cryptography in Node.js
+    Common Pitfalls and How to Avoid Them
+    Ensuring Secure Key Management
+
+Section 27: Real-Time Communication with WebSockets
+
+    Introduction to WebSockets
+    Understanding the WebSocket Protocol
+    Use Cases for WebSockets in Modern Applications
+    Setting Up WebSockets in Node.js
+    Introduction to the ws Module
+    Installing and Configuring the ws Module
+    Creating a WebSocket Server
+    Setting Up a Basic WebSocket Server in Node.js
+    Handling Client Connections and Messages
+    Working with WebSocket Clients
+    Creating a WebSocket Client in Node.js
+    Sending and Receiving Messages Between Server and Client
+    Broadcasting Messages to Multiple Clients
+    Implementing Message Broadcasting in WebSocket Servers
+    Handling Multiple Client Connections
+    Understanding the Security Risks of WebSockets
+    Implementing Authentication and Secure Connections with WebSockets
+    Building a Real-Time Chat Application
+    Implementing Real-Time Updates in a Web Application
+    Best Practices for WebSockets in Production
+    Handling Reconnections and Connection Failures
+    Optimizing WebSocket Performance
+
+Capstone Project: Building ProCodrr.com from Scratch
+
